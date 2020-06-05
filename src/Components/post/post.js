@@ -5,7 +5,7 @@ const post =()=>(
     <div className="post">
         <div>
 <h1 className="display-2">ddfdfdd<br/>ffdfdff</h1>
-<p classNmae ="lead">sddffffdfdffffffffffffffffff</p>
+<p classNmae ="lead">sddffffdfdfffffffffffffdffdfdv <br/>fffff</p>
 <button className="btn btn-primary">Learn More</button>
 </div>
 <img src ={imgPost} alt="cdvc"/>
