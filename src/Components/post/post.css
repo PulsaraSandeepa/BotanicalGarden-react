@@ -1,0 +1,22 @@
+.post img{
+    position: relative;
+    width: 50%;
+    height:auto;
+   margin-left:500px;
+}
+.post h1{
+    position: absolute;
+    text-align: center;
+    margin-left: 100px;
+}
+.post p{
+    position: absolute;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 200px;
+}
+ .post button{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 300px;
+ }

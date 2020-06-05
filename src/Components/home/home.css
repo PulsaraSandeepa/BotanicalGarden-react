@@ -1,0 +1,13 @@
+.Home img{
+    width:100%;
+    height:auto;
+    position:relative;
+}
+.Home h1{
+    position:absolute;
+    color:white;
+    top:250px;
+    left:100px;
+    text-shadow: 2px 2px 5px #000000;
+
+}
